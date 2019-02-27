@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-> Dipartimento di Ingegneria e Scienze dell'Informazione
+> Dipartimento di Ingegneria e Scienze dell'Informazione<br>
 > Università degli Studi dell'Aquila 
 
 Short bio
