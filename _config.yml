@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Alfonso Pierantonio"
   avatar           : "alfi.png"
-  bio              : "Associate Professor <br>Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica <br>Università degli Studi dell'Aquila"
+  bio              : "Associate Professor <br>&nbsp;<br>Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica <br>Università degli Studi dell'Aquila"
   location         : "L'Aquila"
-  employer         :
+  employer         : "Università degli Studi dell'Aquila"
   googlescholar    : "https://scholar.google.it/citations?user=JVTAEMMAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,6 +103,7 @@ author:
   linkedin         :
   orcid            : "http://orcid.org/0000-0002-5231-3952"
   pinterest        :
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=15064742800" 
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
