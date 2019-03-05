@@ -10,8 +10,8 @@ main:
     url: /teaching/    
     
   - title: "Projects"
-    url: /projects.html
-        
+    url: /_pages/projects.html
+
   - title: "Blog Posts"
     url: /year-archive/
     
