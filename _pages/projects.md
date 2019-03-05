@@ -5,13 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% include base_path %}
-
-dd
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## Projects
 
 * EU H2020-MSCA-ITN-2018 Lowcomote, Jan 2019 -- Dec 2022
