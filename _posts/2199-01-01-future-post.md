@@ -1,5 +1,5 @@
 ---
-title: 'Future Blog Post'
+title: 'The hidden side of the debt: how to rescue Europe'
 date: 2018-11-14
 permalink: /posts/2018/11/hidden-debt/
 tags:
@@ -16,7 +16,7 @@ The analysis of the debt-related financial figures drives the public debate acro
 The debt in the sense of Maastricht [5] is defined in a specific way and consists only of the following  financial liabilities
 * cash and deposits,
 * treasury bonds (BTF and BTAN),
-* é ungible treasury bonds (OAT),
+* ungible treasury bonds (OAT),
 * Euro medium term notes (EMTN), as well as loans.
 
 According to this definition, the debt of the EU Member States is given in Figure 1 with a number of countries that are far beyond the fateful threshold of 60% prescribed by the treaty.
@@ -56,3 +56,30 @@ A contradicting scenario emerges since
 
 1. because of the definition of the debt in the sense of Maastricht, Länder securities fall outside the treaty;
 1. Länder securities are included in the ECB’s public-sector asset purchase programme (which increases demand for securities issued by Länder while lowering borrowing costs).
+
+In other words, on the one hand, the Maastricht Treaty does not pose any restriction to the hidden debt of the EU Member States, on the other hand, such debt (at least that represented by the Länder securities) is in the ECB’s purchase program. In the period 2000–2006 (with the exception of 2007) the majority of German Länder have recorded persistent budget deficits that led to exceptionally high debt levels. Soft budget constraints, which are motivated by the politically sensitive matter of autonomy, resulted in little intrinsic incentives for budgetary discipline, ie. limited flexibility in raising revenue, weak incentives to increase tax bases, and low efficiency of tax collection.
+
+With EU on the verge of killing itself, it can be of crucial relevance to analyze and better understand the uneven impact of contingent liabilities outside the Maastricht Treaty. In particular, it can be important to let the German taxpayer note that Germany has a debt problem as well: austerity has been a principle that has been applied across Europe to the debt in the sense of Maastricht only, e.g., strong budget constraints have been applied to only 36% of the German public expenditure — with large parts of the public sectors, including public health and higher-education, benefitting of softer budget constraints.
+
+The founding principles of the European Union are not abstract categories. The Treaty of Amsterdam (1997) enunciated a set of values held in common by the member States and which they decided to incorporate into the foundations of the Union. These values include liberty, democracy, a respect for human rights and basic civil liberties, and rule by law. They are proclaimed in the treaty founding the Union, to which the Charter of Fundamental Rights added the dignity of the human being, equality, and solidarity. That translates into practice as the longest period of peace and prosperity Europe has experienced in its long turmoiled history.
+
+Next European Election depending on the result might represent a concrete possibility to put such principles in danger. Re-discussing values such as the dignity of the human being, equality, and solidarity will open scenarios whose limits are beyond history. Regional conflicts are part of our near past, getting beyond them and having moral, ethical and material destruction is not impossible because we are nullifying what we have built together: the basement of a common house.
+
+Let’s start to discuss frankly and honestly about the debt, that of Maastricht and the hidden one. In figure 4 the overall debt, i.e., that in the sense of Maastricht and the hidden one among the EU Member States, is given.
+
+[IMAGE]
+Figure 4 — the overall debt of EU Member States
+
+It won’t be easy and it won’t be easy to convince Germans (and others) that Italians love their children too, but it is necessary because if we understand that there are good reasons for sharing the debt, then the political Union is much closer than what we think. And that’s the only way to rescue Europe!
+
+### References
+
+1. General government gross debt — annual data, Eurostat, last accessed on Oct 2018, https://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=teina225&plugin=1
+
+1.  Anja Ettel, Holger Zschäpitz, Europa sitzt auf einem Berg heimlicher Schulden. Die Welt, last accessed on Oct 2018, https://www.welt.de/finanzen/article173037693/Buergschaften-So-hoch-sind-die-EU-Staaten-verschuldet.html?wtmc=socialmedia.twitter.shared.web
+
+1.  Ferdinando Giugliano, Does Germany have a bigger public debt problem than Greece? Financial Times, last accessed on Oct 2018, https://www.ft.com/content/0a43570a-059c-3ead-9bed-e33b735dc76b (under paywall)
+
+1. Eurostat. The extent of contingent liabilities and non- performing loans in the EU Member States (2018), last accessed on Oct 2018, https://ec.europa.eu/eurostat/documents/2995521/8624398/2-29012018-AP-EN.pdf/ee504046-6ccc-4b79-8dfb-7a5e1d38328f
+
+1. Debt in the sense of Maastricht (national accounts), Institut national de la statistique et des études économique , last accessed on Oct 2018, https://www.insee.fr/en/metadonnees/definition/c1091
