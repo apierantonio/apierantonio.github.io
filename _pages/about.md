@@ -26,6 +26,11 @@ I am now involved in the following international journals
 
 I have been General Chair of STAF 2015 and Program Chair of ECMFA 2018. I am chairing the steering committee of the International Conference on Model Transformation (ICMT) and of the Workshop on Models and Evolution (ME). In the last five years, I (co-)organized about 20 conferences and workshops. I have been member of the Program Board of the 21th International Conference on Model Driven Engineering Languages and Systems (MODELS'17). I have been co-director of the 12th International School on Formal Methods for the Design of Computer, Communication and Software Systems: Model-Driven Engineering held in Bertinoro (Italy), 2012.
 
+> **PhD Positions available** - We are hiring two PhD students in the [H2020 ITN Lowcomote](http://lowcomote.eu) project - please note the salary is highly competitive and an allowance for family relocation is available. If you are interested, please contact me.
+>
+> If you are interested in doing your PhD or being considered for a postdoc position, please contact me.
+
+
 <a href="http://www.jot.fm/" target="_blank">
   <img src="http://www.jot.fm/images/banners/banner-editor.png">
 </a>
