@@ -50,10 +50,11 @@ I have been co-director of the [12th International School on Formal Methods for 
 </a>
 
 
-<img src="images/OA.png" />
+<img style="width: 20px; padding-right: 4px;" src="images/OA.png" /> Papers should be free.
 
 Contact 
 ------
-<small>Dipartimento di Ingegneria e Scienze dell'Informazione<br>
+<address>Dipartimento di Ingegneria e Scienze dell'Informazione<br>
 Università degli Studi dell'Aquila<br>
-Alan Turing Building, R206 - mailto:alfonso.pierantonio@univaq.it </small>
+Alan Turing Building, R206 - mailto:alfonso.pierantonio@univaq.it 
+</address>
