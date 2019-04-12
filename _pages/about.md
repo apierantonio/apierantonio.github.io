@@ -11,6 +11,10 @@ redirect_from:
 > Dipartimento di Ingegneria e Scienze dell'Informazione<br>
 > Università degli Studi dell'Aquila 
 
+
+<img style="width: 20px; padding-right: 4px;" src="images/OA.png" /> Papers should be free.
+
+
 Short bio
 ------
 I am Associate Professor at the University of L'Aquila (Italy) and also [Visiting Professor](http://www.es.mdh.se/staff/3215-Alfonso__Pierantonio) at Mälardalen University (Sweden).
@@ -50,7 +54,7 @@ I have been co-director of the [12th International School on Formal Methods for 
 </a>
 
 
-<img style="width: 20px; padding-right: 4px;" src="images/OA.png" /> Papers should be free.
+
 
 Contact 
 ------

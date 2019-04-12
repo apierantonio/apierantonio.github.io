@@ -25,7 +25,7 @@ For a complete list of publications please refer to public repositories
 
 Below you can find the list of my latest publications that might not be listed yet in public repositories.
 
-> Francesco Basciani, Juri Di Rocco, Davide Di Ruscio, Ludovico Iovino & Alfonso Pierantonio. A Tool-Supported Approach for Assessing the Quality of Modeling Artifacts. Journal of Visual Languages and Computing 47 (2019).
+> Francesco Basciani, Juri Di Rocco, Davide Di Ruscio, Ludovico Iovino & Alfonso Pierantonio. A Tool-Supported Approach for Assessing the Quality of Modeling Artifacts. Journal of Computer Languages 51, April (2019), 173-192 [doi:10.1016/j.cola.2019.02.003](https://doi.org/10.1016/j.cola.2019.02.003)
 >
 > Juan de Lara, Esther Guerra, Davide Di Ruscio, Juri Di Rocco, Jesus Sanchez Cuadrado, Ludovico Iovino & Pierantonio, Alfonso. Automated Reuse of Model Transformations through Typing Requirements Models. ACM Transaction on Software Engineering and Methodology (2019)
 >
