@@ -13,7 +13,7 @@ redirect_from:
 
 Short bio
 ------
-I am Associate Professor at the University of L'Aquila (Italy) and also Visiting Professor at Mälardalen University (Sweden).
+I am Associate Professor at the University of L'Aquila (Italy) and also [Visiting Professor](http://www.es.mdh.se/staff/3215-Alfonso__Pierantonio) at Mälardalen University (Sweden).
 
 My research interests are in Model-Driven Engineering, Language Engineering, and in Software Engineering. In particular, I am interested in any form of co-evolution, in bidirectionality and uncertainty, and most recently I am building a generic modeling platform alternative to EMF/Ecore.
 
@@ -24,13 +24,22 @@ I am now involved in the following international journals
 * [Software and System Modelling](http://www.sosym.org/), Editorial Board
 * [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming), Advisory Board
 
-I have been General Chair of STAF 2015 and Program Chair of ECMFA 2018. I am chairing the steering committee of the International Conference on Model Transformation (ICMT) and of the Workshop on Models and Evolution (ME). In the last five years, I (co-)organized about 20 conferences and workshops. I have been member of the Program Board of the 21th International Conference on Model Driven Engineering Languages and Systems (MODELS'17). I have been co-director of the 12th International School on Formal Methods for the Design of Computer, Communication and Software Systems: Model-Driven Engineering held in Bertinoro (Italy), 2012.
+and in the following international conferences, and communities. Please consider submission of your papers and participation in the related events.
 
-**PhD Positions** - We are hiring two PhD students in the [H2020 ITN Lowcomote](http://lowcomote.eu) project - please note the salary is highly competitive and an allowance for family relocation is available. If you are interested, please contact me.
+* Steering Commitee Chair, [International Conference on Model Transformation](http://www.model-transformation.org)
+* PC Chair, [ECMFA 2018](http://eventmall.info/ecmfa2018/)
+* General Chair, [STAF 2015](https://web.archive.org/web/20150708054937/https://www.disim.univaq.it/staf2015/)
+* Member Program Board: MoDELS 2017
+* PC Member: [MoDELS 2019](https://www.cs.utexas.edu/models2017/home), [SEKE 2019](http://ksiresearchorg.ipage.com/seke/seke19.html), [SLE 2019](https://conf.researchr.org/home/sle-2019), [ICMT 2019](http://www.model-transformation.org), [ICWE 2019](http://www.model-transformation.org), MASE 2019, [BX 2019](http://bx-community.wikidot.com/bx2019:home), MoDRE 2019, [PNSE 2019](http://www.informatik.uni-hamburg.de/TGI/events/pnse/), [SEAA 2019](http://dsd-seaa2019.csd.auth.gr), etc
+
+I have been co-director of the [12th International School on Formal Methods for the Design of Computer, Communication and Software Systems: Model-Driven Engineering](https://link.springer.com/book/10.1007/978-3-642-30982-3) held in Bertinoro (Italy), 2012.
+
+**Interested in doing a PhD?** 1) If you are interested in doing your PhD or being considered for a postdoc position, please contact me. 2) Two positions in the [H2020 ITN Lowcomote](http://lowcomote.eu) project - please note the salary is highly competitive and an allowance for family relocation is available.
 {: .notice--success}
 
-**Interested in doing a PhD?** If you are interested in doing your PhD or being considered for a postdoc position, please contact me.
-{: .notice--info}
+**Interested in doing a Postdoc?** A senior postdoc position is available in the ERMES project in modelling raylways interlocking systems. More information available [here](docs/brochure.pdf).
+{: .notice--success}
+
 
 <a href="http://www.jot.fm/" target="_blank">
   <img src="http://www.jot.fm/images/banners/banner-editor.png">
