@@ -4,14 +4,13 @@ excerpt: 'Conventional wisdom suggests that Open Access (OA) should help reduce 
 date: 2019-03-10
 permalink: /posts/2019/03/open-access/
 category: science
+status: draft
 tags:
   - research
   - open science
   - publishing
 ---
-*This document is in a non definitive status, it is subject to modifications and extensions.*
-
-
+*Alfonso Pierantonio*
 
 # Open Access help reduce the difficulties in accessing science, but who pays?
 
