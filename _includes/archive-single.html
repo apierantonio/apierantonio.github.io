@@ -38,12 +38,23 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
+    {% if post.category %} 
+      <span itemprop="keywords">
+        {{ post.category }}
+      </span>
+    {% endif %}
+
+
+
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time> 
+          {% if post.medium %} 
+            (also on <a href="{{ post.medium }}">Medium</a>) 
+          {% endif %} </p>
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
@@ -58,7 +69,13 @@
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
-    {% endif %}
+    {% endif %}  
+
+    {% if post.category %} 
+      <span itemprop="keywords">
+        <a href="" style="font-size: 0.8em; color: gray; text-decoration: none;" class="page__taxonomy-item" rel="tag">{{ post.category }}</a>
+      </span>
+    {% endif %}  
 
   </article>
 </div>
