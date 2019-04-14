@@ -9,6 +9,8 @@ tags:
   - open science
   - publishing
 ---
+*This document is in a non definitive status, it is subject to modifications and extensions.*
+
 
 
 # Open Access help reduce the difficulties in accessing science, but who pays?
@@ -42,28 +44,17 @@ A variety of platforms are available, including disciplinary repositories (e.g.,
 
 "Platinum" (or Diamond) open access means permanent and free access to published scientific works for readers with no publication fees for the authors – 100% free. All articles are published under the most flexible reuse standard – the CC BY license. Publication costs are funded by non-profit associations, academic institutions or governative information centre. Platinum open access platforms maximizes the potential for exchanging ideas and provides a valuable contribution to those with limited financial means by leveling the playing field and giving everyone an equal chance to publish and read scientific publications of high quality. 
 
-# A Controversial change
+# Problems
 
-In Gold OA publications, the APC shifts the burden of payment from readers to authors (or their funders), which creates a new set of concerns: 
+In Gold OA publications are typically operated on commercial platforms with the APC shifting the burden of payment from readers to authors (or their funders), which creates a new set of concerns: 
 
 * publishers are incentivized to accept anything submitted,
-* institutional budgets may need to be adjusted in order to provide funding for the article processing charges required to publish in many open access journals; this aspect might induce
+* institutional budgets may need to be adjusted in order to provide funding for the article processing charges required to publish in many open access journals, while retainong the old subscriptions. 
+
+Requiring to pay the APC to be able to publish a paper might induce
 a financial bias since 
 	* authors from countries with low incomes may have difficulties in publishing; and 
 	* non tenured academic staff might have different access to the institutional funds to pay the processing costs. 
-
-All in all, part of the scientific budget will be shifted from the creation of knowledge to the dissemination of knowledge.
-
-# Problems
-
-Gold OA publications are typically operated on commercial platforms where the burden of payment is shifted from readers to authors (or their funders). Thus, part of the scientific budget devoted to the creation of knowledge will be used for the dissemination of knowledge.
-
-This might put in jeopardy the following aspects:
-
-**Scientific quality:** since commercial publishers are earning on a per published paper basis, they are incentivized to accept papers even though their quality is below a given threshold.
-
-**Financial bias:** authors from countries with low incomes may have difficulties in publishing. Moreover, non tenured academic staff might have different access to the institutional funds to pay the processing costs. 
-
 
 
 *[OA]: Open Access
