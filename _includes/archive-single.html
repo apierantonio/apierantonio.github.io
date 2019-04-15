@@ -43,13 +43,6 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-    {% if post.category %} 
-      <span itemprop="keywords">
-        {{ post.category }}
-      </span>
-    {% endif %}
-
-
 
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
@@ -78,7 +71,12 @@
 
     {% if post.category %} 
       <span itemprop="keywords">
-        <a href="" style="font-size: 0.8em; color: gray; text-decoration: none;" class="page__taxonomy-item" rel="tag">{{ post.category }}</a>
+        <a href="" style="font-size: 0.8em; border-color: gray; color: gray; text-decoration: none;" class="page__taxonomy-item" rel="tag">{{ post.category }}</a>
+      </span>
+    {% endif %} 
+    {% if post.status == "draft" %} 
+      <span itemprop="keywords">
+        <span style="font-size: 0.8em; background-color: white; color: silver; border-color: silver; text-decoration: none;" class="page__taxonomy-item" rel="tag"> draft </span>
       </span>
     {% endif %}  
 

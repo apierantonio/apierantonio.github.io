@@ -55,6 +55,12 @@ a financial bias since
 	* authors from countries with low incomes may have difficulties in publishing; and 
 	* non tenured academic staff might have different access to the institutional funds to pay the processing costs. 
 
+# Interesting readings
+
+* [Why UC split with publishing giant Elsevier](https://news.berkeley.edu/2019/02/28/why-uc-split-with-publishing-giant-elsevier/), Berkeley News, Feb 28, 2019
+* [The Guardian view on academic publishing: disastrous capitalism](https://www.theguardian.com/commentisfree/2019/mar/04/the-guardian-view-on-academic-publishing-disastrous-capitalism), The Guardian, March 4, 2019
+* [All scientific papers to be free by 2020 under EU proposals](https://www.theguardian.com/science/2016/may/28/eu-ministers-2020-target-free-access-scientific-papers), The Guardian, May 28, 2016 (This article is more than 2 years old)
+
 
 *[OA]: Open Access
 *[APC]: Article Processing Charge
