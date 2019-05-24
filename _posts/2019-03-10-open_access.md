@@ -1,7 +1,7 @@
 ---
 title: 'Open Access'
 excerpt: 'Conventional wisdom suggests that Open Access (OA) should help reduce the difficulties in accessing knowledge and research products. Let us try to understand how the available models differ one with another, and the risks and opportunities.'
-date: 2019-04-15
+date: 2019-05-24
 permalink: /posts/2019/03/open-access/
 category: science
 status: draft
@@ -12,9 +12,31 @@ tags:
 ---
 *Alfonso Pierantonio*
 
+### Release notes
+
+
+2019-05-24: Market<br>
+2019-04-15: Different OA models<br>
+
+# Publishing Market
+
+The scientific publishing industry is a consolidated sector that it is active for decades. Over the years (especially during the 1960s and 1970s), commercial publishers acquired many journals that were managed by non-profit academic societies. In 2013, five for-profit companies accounted for 50% of articles published. 
+
+Publishers sell two different kinds of knowledge:  **scientific** and **bibliographic** knowledge. To this end they provide
+
+* **content**: the research results
+* **certification**: it is strictly related to the scientific reputation of journals and series
+* **organization**: content collection, workflow management, and platform definition and maintenance
+
+Traditionally, the cost of publishing was a proportional cost depending on the number of printed copies and the number of distributed copies. However, today papers are electronic resources that can be redistributed by publishers at no cost provided that they sustained the costs for production and for the platform. Besides, the market is [*inelastic*](https://en.wikipedia.org/wiki/Elasticity_(economics)), where the publishers exercise a monopoly: an article is an individual product that cannot be substituted by a similar article despite the existence of related articles. As a conseguence, the scientific publishing market is not a [*perfectly competitive market*](https://en.wikipedia.org/wiki/Perfect_competition) because the price of the products (e.g., cost per accessed paper) is much higher that the marginal cost and the players have high marginal revenues. Nowadays, these publishers have profit margins of around 40% (see [5]). These factors have contributed to the increase of total expenditures corresponding to 7.6% per year from 1986 to 2005, yet the number of serials purchased increased an average of only 1.9% per year. 
+
+Overall, scholarly publishing relies upon an unusual economic model.  
+
+
 # Open Access help reduce the difficulties in accessing science, but who pays?
 
 Conventional wisdom suggests that Open Access (OA) should help reduce the difficulties in accessing knowledge and research products. In fact, research outputs published according to OA can be distributed online free of cost, or other barriers in contrast with traditional (non-open access) journals that requires subscription fees, site licenses or pay-per-view charges. 
+
 
 ## Open Access vs publishing costs
 
@@ -57,11 +79,14 @@ a financial bias since
 
 # Interesting readings and references
 
-* [Plan S](https://www.coalition-s.org), Coalition S website 
-* [Why UC split with publishing giant Elsevier](https://news.berkeley.edu/2019/02/28/why-uc-split-with-publishing-giant-elsevier/), Berkeley News, Feb 28, 2019
-* [The Guardian view on academic publishing: disastrous capitalism](https://www.theguardian.com/commentisfree/2019/mar/04/the-guardian-view-on-academic-publishing-disastrous-capitalism), The Guardian, March 4, 2019
-* [All scientific papers to be free by 2020 under EU proposals](https://www.theguardian.com/science/2016/may/28/eu-ministers-2020-target-free-access-scientific-papers), The Guardian, May 28, 2016 (This article is more than 2 years old)
-* [Area-wide transition to open access is possible](https://www.mpg.de/9202262/area-wide-transition-open-access), Max-Planck Gesellschaft, April 27, 2015
+1. [Plan S](https://www.coalition-s.org), Coalition S website
+1. [Why UC split with publishing giant Elsevier](https://news.berkeley.edu/2019/02/28/why-uc-split-with-publishing-giant-elsevier/), Berkeley News, Feb 28, 2019
+1. [The Guardian view on academic publishing: disastrous capitalism](https://www.theguardian.com/commentisfree/2019/mar/04/the-guardian-view-on-academic-publishing-disastrous-capitalism), The Guardian, March 4, 2019
+1. [All scientific papers to be free by 2020 under EU proposals](https://www.theguardian.com/science/2016/may/28/eu-ministers-2020-target-free-access-scientific-papers), The Guardian, May 28, 2016 (This article is more than 2 years old)
+1. [Is the staggeringly profitable business of scientific publishing bad for science?](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science), The Guardian, June 27, 2017
+1. [Area-wide transition to open access is possible](https://www.mpg.de/9202262/area-wide-transition-open-access), Max-Planck Gesellschaft, April 27, 2015
+1. [Academic publishing](https://en.wikipedia.org/wiki/Academic_publishing#cite_note-staggeringly-15), Wikipedia
+1. Russel, R. D. "The business of academic publishing: A strategic analysis of the academic journal publishing industry and its impact on the future of scholarly publishing." Electron J Acad Spec Librarianship 9.3 (2008).
 
 
 *[OA]: Open Access
