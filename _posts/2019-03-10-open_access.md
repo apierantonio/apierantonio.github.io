@@ -20,7 +20,7 @@ tags:
 
 # Publishing Market
 
-The scientific publishing industry is a consolidated sector that it is active for decades. Over the years (especially during the 1960s and 1970s), commercial publishers acquired many journals that were managed by non-profit academic societies. In 2013, five for-profit companies accounted for 50% of articles published. 
+The scientific publishing industry is a consolidated sector that has been active for decades. Over the years, commercial publishers acquired many journals that were managed by non-profit academic societies. In 2013, five for-profit companies accounted for 50% of articles published. 
 
 Publishers sell two different kinds of knowledge:  **scientific** and **bibliographic** knowledge. To this end they provide
 
