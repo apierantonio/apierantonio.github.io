@@ -1,7 +1,7 @@
 ---
 title: 'Open Access'
 excerpt: 'Conventional wisdom suggests that Open Access (OA) should help reduce the difficulties in accessing knowledge and research products. Let us try to understand how the available models differ one with another, and the risks and opportunities.'
-date: 2019-05-24
+date: 2019-06-19
 permalink: /posts/2019/03/open-access/
 category: science
 status: draft
@@ -14,9 +14,13 @@ tags:
 
 ### Release notes
 
-
+2019-06-19: Plan-S delayed
 2019-05-24: Market<br>
 2019-04-15: Different OA models<br>
+
+# News
+
+* Plan-S delayed by one year
 
 # Publishing Market
 
