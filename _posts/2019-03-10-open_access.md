@@ -14,7 +14,7 @@ tags:
 
 ### Release notes
 
-2019-06-19: Plan-S delayed 
+2019-06-19: Plan-S delayed <br>
 2019-05-24: Market<br>
 2019-04-15: Different OA models<br>
 
