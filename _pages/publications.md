@@ -25,15 +25,19 @@ For a complete list of publications please refer to public repositories
 
 Below you can find the list of my latest publications that might not be listed yet in public repositories.
 
-1. Loli Burgueño, Federico Ciccozzi, Michalis Famelis, Gerti Kappel, Leen Lambers, Sebastien Mosser, Richard F. Paige, Alfonso Pierantonio, Arend Rensink, Rick Salay, Gabriele Taentzer, Antonio Vallecillo, & Manuel Wimmer. Contents for a Model-Based Software Engineering Body of Knowledge. Journal of Software and System Modeling (2019) 
+1. Francesco Basciani, Juri Di Rocco, Davide Di Ruscio, Ludovico Iovino & Alfonso Pierantonio. A Tool-Supported Approach for Assessing the Quality of Modeling Artifacts. **Journal of Computer Languages** 51, April (2019), 173-192 [doi:10.1016/j.cola.2019.02.003](https://doi.org/10.1016/j.cola.2019.02.003)
 
-1. Juri Di Rocco, Davide Di Ruscio, Ludovico Iovino, Phuong Nguyen, Alfonso Pierantonio. Automated Classification of Metamodel Repositories: A Machine Learning Approach. In Procs. IEEE/ACM 22nd International Conference on Model Driven Engineering Languages and Systems (MODELS), 15-20 Sept 2019 Munich, Germany
+1. Loli Burgueño, Federico Ciccozzi, Michalis Famelis, Gerti Kappel, Leen Lambers, Sebastien Mosser, Richard F. Paige, Alfonso Pierantonio, Arend Rensink, Rick Salay, Gabriele Taentzer, Antonio Vallecillo, & Manuel Wimmer. Contents for a Model-Based Software Engineering Body of Knowledge. **Journal of Software and System Modeling** (2019) 
 
-1. Francesco Basciani, Juri Di Rocco, Davide Di Ruscio, Ludovico Iovino & Alfonso Pierantonio. A Tool-Supported Approach for Assessing the Quality of Modeling Artifacts. Journal of Computer Languages 51, April (2019), 173-192 [doi:10.1016/j.cola.2019.02.003](https://doi.org/10.1016/j.cola.2019.02.003)
+1. Juri Di Rocco, Davide Di Ruscio, Johannes Härtel, Ludovico Iovino, Alfonso Pierantonio & Ralf Lämmel, Understanding MDE Projects: Architecture Recovery and Megamodels to the Rescue. **Journal of Software and System Modeling** (2019) 
 
-1. Juan de Lara, Esther Guerra, Davide Di Ruscio, Juri Di Rocco, Jesus Sanchez Cuadrado, Ludovico Iovino & Pierantonio, Alfonso. Automated Reuse of Model Transformations through Typing Requirements Models. ACM Transaction on Software Engineering and Methodology (2019)
+1. Juan de Lara, Esther Guerra, Davide Di Ruscio, Juri Di Rocco, Jesus Sanchez Cuadrado, Ludovico Iovino & Pierantonio, Alfonso. Automated Reuse of Model Transformations through Typing Requirements Models. **ACM Transaction on Software Engineering and Methodology** (2019)
 
-1. Juri Di Rocco, Davide Di Ruscio, Johannes Härtel, Ludovico Iovino, Alfonso Pierantonio & Ralf Lämmel, Understanding MDE Projects: Architecture Recovery and Megamodels to the Rescue. Journal of Software and System Modeling (2019) 
+1. Juri Di Rocco, Davide Di Ruscio, Ludovico Iovino, Phuong Nguyen, Alfonso Pierantonio. Automated Classification of Metamodel Repositories: A Machine Learning Approach. In Procs. **IEEE/ACM 22nd International Conference on Model Driven Engineering Languages and Systems (MODELS)**, 15-20 Sept 2019 Munich, Germany
+
+
+
+
 
 
 
