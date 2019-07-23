@@ -15,7 +15,7 @@ redirect_from:
 ## News
 **Aut tace, Aut Loquere meliora Silentio (and the Likes)** <br>
 Keynote at STAF-JRC 2019, Thursday July 18th, 2019<br><br>
-More information: 
+More information: [https://apierantonio.github.io/presentations/](https://apierantonio.github.io/presentations/)
 {: .notice}
 
 Short bio
