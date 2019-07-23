@@ -12,11 +12,10 @@ redirect_from:
 
 <img style="width: 20px; padding-right: 4px;" src="images/OA.png" /> Papers should be free.
 
-
-**Keynote at STAF-JRC 2019 (Thursday, July 18th)** <br><br>**Aut tace, Aut Loquere meliora Silentio (and the Likes)** <br>
-*Starting a career in research is one of the most uncertain professional ambition in modern societies. Besides the technical obstacles of becoming a world-class expert in a specific topic (you have to!), it presents a diversity of daunting psycho-social difficulties that might be conducive to harmful consequences. The talk is informal in nature and tries to reflect the speaker's experience (as a computer scientist) at the beginning of his career and later as the mentor of students and postdocs. Besides expected definitions about what research is or should be, it tries to discuss how students often tend to adopt the irrational idea of having 'perfect reasoning.' It also will consider empiricism, as a democratic tool for entering research, and the language as a barrier for those who do not speak English as a first language. The final remark will be about 'silence' as a beneficial or pathological aspect of both researchers and mentors.*
-{: .notice}
-<iframe src="https://www.slideshare.net/kruder396/slideshelf" width="760px" height="570px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+## News
+**Aut tace, Aut Loquere meliora Silentio (and the Likes)** <br>
+Keynote at STAF-JRC 2019, Thursday July 18th, 2019<br><br>
+More information: 
 {: .notice}
 
 Short bio
