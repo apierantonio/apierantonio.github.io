@@ -13,6 +13,12 @@ redirect_from:
 <img style="width: 20px; padding-right: 4px;" src="images/OA.png" /> Papers should be free.
 
 ## News
+
+**Best Paper - Foundations Track at MoDELS 2019**
+Automated Classification of Metamodel Repositories: A Machine Learning Approaches<br>
+P. Nguyen, J. Di Rocco, D. Di Ruscio, A. Pierantonio, L. Iovino<br><br>
+**The Model-Based Software Engineering Body of Knowledge (MBEBOK)**<br>
+Keynote at EduSymp 2019 @ MoDELSm Thusday Sept 17th, 2018<br><br>
 **Aut tace, Aut Loquere meliora Silentio (and the Likes)** <br>
 Keynote at STAF-JRC 2019, Thursday July 18th, 2019<br><br>
 More information: [https://apierantonio.github.io/presentations/](https://apierantonio.github.io/presentations/)
