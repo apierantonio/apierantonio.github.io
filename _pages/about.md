@@ -14,7 +14,7 @@ redirect_from:
 
 ## News
 
-**Best Paper - Foundations Track at MoDELS 2019**
+**Best Paper - Foundations Track at MoDELS 2019**<br>
 Automated Classification of Metamodel Repositories: A Machine Learning Approaches<br>
 P. Nguyen, J. Di Rocco, D. Di Ruscio, A. Pierantonio, L. Iovino<br><br>
 **The Model-Based Software Engineering Body of Knowledge (MBEBOK)**<br>
