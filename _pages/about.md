@@ -1,11 +1,5 @@
----
-permalink: /
-title: "Alfonso Pierantonio"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-redirect_to:
-  - http://pieranton.io
----
-This is my old page, please go to http://pieranton.io
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to http://pieranton.io/</title>
+<meta http-equiv="refresh" content="0; URL=http://pieranton.io">
+<link rel="canonical" href="http://pieranton.io">
